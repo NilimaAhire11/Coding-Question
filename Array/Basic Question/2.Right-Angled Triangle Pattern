@@ -3,7 +3,6 @@ Right-Angled Triangle Pattern
 Given an integer N, print the following pattern 
 
 import java.util.*;
-
 public class Main {
     public static void main(String args[]){
      int n = 5;
