@@ -1,6 +1,5 @@
-Inverted Right Pyramid
-
-Problem Statement: Given an integer N, print the following pattern : 
+// Inverted Right Pyramid
+// Problem Statement: Given an integer N, print the following pattern : 
 
 import java.util.*;
 public class Main {
@@ -24,7 +23,6 @@ OUTPUT:-
 * 
 
 
-Complexity Analysis
-
-Time Complexity: O(N²), since two nested loops are used.
-Space Complexity: O(1), as no extra data structures are needed.
+// Complexity Analysis
+// Time Complexity: O(N²), since two nested loops are used.
+// Space Complexity: O(1), as no extra data structures are needed.
