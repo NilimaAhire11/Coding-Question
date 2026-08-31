@@ -1,4 +1,4 @@
-Optimal Solution using Two Pointer Approach
+//Optimal Solution using Two Pointer Approach
 
 import java.util.*;
 public class Main {
@@ -17,5 +17,5 @@ public class Main {
     }
 }
 
-Time Complexity:- O(n)
-Space Complexity:- O(1)
+// Time Complexity:- O(n)
+// Space Complexity:- O(1)
