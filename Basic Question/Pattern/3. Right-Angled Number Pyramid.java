@@ -1,6 +1,5 @@
-Right-Angled Number Pyramid
-
-Problem Statement: Given an integer N, print the following pattern : 
+// Right-Angled Number Pyramid
+// Problem Statement: Given an integer N, print the following pattern : 
 
 import java.util.*;
 public class Main {
@@ -16,14 +15,13 @@ public class Main {
 }
 
 OUTPUT:- 
-
+    
 1 
 1 2 
 1 2 3 
 1 2 3 4 
 1 2 3 4 5 
 
-Complexity Analysis
-
-Time Complexity: O(N²), because the outer loop runs N times and the inner loop runs up to i times for each row.
-Space Complexity: O(1), since only loop variables are used.
+// Complexity Analysis
+// Time Complexity: O(N²), because the outer loop runs N times and the inner loop runs up to i times for each row.
+// Space Complexity: O(1), since only loop variables are used.
