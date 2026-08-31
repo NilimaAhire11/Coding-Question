@@ -1,6 +1,5 @@
-Rectangular Star Pattern
-
-Problem Statement: Given an integer N, print the following pattern.
+// Rectangular Star Pattern
+// Problem Statement: Given an integer N, print the following pattern.
 
 import java.util.*;
 public class Main {
@@ -15,9 +14,7 @@ public class Main {
     }
 }
 
-
 OUTPUT:-
-
 *****
 *****
 *****
@@ -25,7 +22,6 @@ OUTPUT:-
 *****
 
 
-Complexity Analysis:- 
-
-Time Complexity: O(N²), since we print N stars for each of the N rows.
-Space Complexity: O(1), no additional space is used apart from loop variables.
+// Complexity Analysis:- 
+// Time Complexity: O(N²), since we print N stars for each of the N rows.
+// Space Complexity: O(1), no additional space is used apart from loop variables.
