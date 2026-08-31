@@ -1,6 +1,5 @@
-Right-Angled Triangle Pattern
-
-Problem Statement: Given an integer N, print the following pattern 
+// Right-Angled Triangle Pattern
+// Problem Statement: Given an integer N, print the following pattern 
 
 import java.util.*;
 public class Main {
@@ -24,7 +23,6 @@ OUTPUT:-
 * * * * *
 
 
-Complexity Analysis:-
-
-Time Complexity: O(N2), Outer loop runs N times, and inner loop runs up to N stars cumulatively.
-Space Complexity: O(1), No extra space is used apart from loop counters.
+// Complexity Analysis:-
+// Time Complexity: O(N2), Outer loop runs N times, and inner loop runs up to N stars cumulatively.
+// Space Complexity: O(1), No extra space is used apart from loop counters.
