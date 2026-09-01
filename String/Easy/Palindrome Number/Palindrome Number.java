@@ -13,7 +13,9 @@ public class Main {
     }
     public static void main(String args[]){
         String str = "racecar";
-        System.out.print(palindrome(str));
+        String str2 = "nilima";
+        System.out.println(palindrome(str));
+        System.out.println(palindrome(str2));
     }
 }
 
