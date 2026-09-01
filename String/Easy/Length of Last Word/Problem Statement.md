@@ -14,7 +14,7 @@ Explanation: The last word is "World" with length 5.
 
 **Example 2:**
 
-Input: s = "   fly me   to   the moon  "
+Input: s = "_ fly me   to   the moon_ "
 
 Output: 4
 
