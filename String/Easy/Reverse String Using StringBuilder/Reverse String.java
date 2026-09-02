@@ -7,11 +7,11 @@ public class Main {
         StringBuilder sb = new StringBuilder("hello");
 
         for(int i=0; i<sb.length()/2; i++){
-            int front = i;
-            int back = sb.length()-1-i;
+            int front = i; //at index
+            int back = sb.length()-1-i; // at index
 
-            char frontChar = sb.charAt(front);
-            char backChar = sb.charAt(back);
+            char frontChar = sb.charAt(front); //at character
+            char backChar = sb.charAt(back);  //at character
 
             sb.setCharAt(front, backChar);
             sb.setCharAt(back, frontChar);
