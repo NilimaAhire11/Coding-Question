@@ -12,8 +12,10 @@ public class Main {
     }
 
     public static void main(String args[]){
-        int arr[] = {1, 3, 4, 2, 2};
-        System.out.println(duplicate(arr));
+        int arr1[] = {1, 3, 4, 2, 2};
+        int arr2[] = {3, 1, 3, 4, 2}
+        System.out.println(duplicate(arr1));
+        System.out.println(duplicate(arr2));
     }
 }
 
