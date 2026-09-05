@@ -1,15 +1,5 @@
 //Inverted Numbered Right Pyramid
 //Problem Statement: Given an integer N, print the following pattern : 
-
-OUTPUT:- 
-1 2 3 4 5 
-1 2 3 4 
-1 2 3 
-1 2 
-1
-
-
-Code
   
 import java.util.*;
 public class Main {
@@ -25,6 +15,12 @@ public class Main {
     }
 }
 
+OUTPUT:- 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1
 
 
 //Complexity Analysis
