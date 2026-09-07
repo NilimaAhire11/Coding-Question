@@ -18,3 +18,6 @@ Input: arr = [3,1,3,4,2]
 Output: 3  
 
 Explanation: Since 3 is the duplicate number, the answer will be 3.
+
+
+.
