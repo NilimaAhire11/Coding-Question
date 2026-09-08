@@ -18,6 +18,9 @@ public static void main(String args[]){
 }
 
 
+
+
+
 // Complexity Analysis
 // Time Complexity: O(N), as it checks each adjacent pair once in a single pass through the array.
 // Space Complexity: O(1), as it uses constant extra space regardless of input size.
