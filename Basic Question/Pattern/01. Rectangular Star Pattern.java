@@ -26,4 +26,4 @@ OUTPUT:-
 // Time Complexity: O(N²), since we print N stars for each of the N rows.
 // Space Complexity: O(1), no additional space is used apart from loop variables.
 
-    xyz
+    
