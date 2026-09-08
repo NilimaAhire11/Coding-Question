@@ -1,6 +1,9 @@
 ## Find the Largest element in an array
 
+
+
 **Problem Statement: Given an array, we have to find the largest element in the array.**
+
 
 Example 1:
 Input: arr[] = {2, 5, 1, 3, 0}  
