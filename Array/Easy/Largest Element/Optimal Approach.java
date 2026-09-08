@@ -18,6 +18,8 @@ public class Main {
 }
 
 
+
+
 // Complexity Analysis
 // Time Complexity: O(N), where N is the size of the array, as we are iterating through the array once.
 // Space Complexity: O(1), as we are using a constant
