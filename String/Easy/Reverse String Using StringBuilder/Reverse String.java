@@ -21,8 +21,6 @@ public class Main {
 }
 
 
-
-
 //Complexity Analysis
 //Time Complexity :- O(n) single loop running
 //Space Complexity :- O(1) no extra string/array used
