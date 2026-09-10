@@ -10,3 +10,5 @@ Input: s = "Hello"
 Output: "olleH"
 
 Explanation : The first character H moves to last position, the second character e moves to second-last and so on.
+
+.
